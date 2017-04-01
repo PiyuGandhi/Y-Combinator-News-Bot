@@ -95,9 +95,9 @@ def automated():
     page_navigate()
 
 # For customizaton , remove the "#" in the next line and put the "#" in front of automated()
-#run()
+run()
 
 # For full automation
-automated()
+#automated()
 
 driver.close()
